@@ -50,7 +50,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-var ownernum = ['0','447405935355']
+var ownernum = ['0','94712448370']
 //-------------
 
 
@@ -77,15 +77,15 @@ global.APIKeys = {
    
    //---------------------------------------------------------------------
 
-   global.sudo = ['447405935355']
+   global.sudo = ['94712448370']
    //-------------
-   global.owner = ['447405935355']
+   global.owner = ['94712448370']
 
    //---------------------------------------------------------------------
    
-   global.packname = 'ＡＬＩＥＮ' 
+   global.packname = 'ᴘᴇᴀᴄᴇ ᴍᴅ' 
    //-------------
-   global.author = 'ＡＬＦＡ'
+   global.author = 'CHARITH SENANAYAKE'
 
    //---------------------------------------------------------------------
 
@@ -95,9 +95,9 @@ global.APIKeys = {
 
    //--------------------- MENU URL BUTTON 1 ------------------------
 
-   global.linkbuttid1 = 'ɪɴꜱᴛᴀɢʀᴀᴍ' 
+   global.linkbuttid1 = 'GITHUB' 
    //-------------
-   global.butturl1 = 'https://www.instagram.com/alienalfa/'
+   global.butturl1 = 'https://github.com/CharithPramodyaSenanayake'
    
    //---------------------------------------------------------------------
 
@@ -105,9 +105,9 @@ global.APIKeys = {
 
    //--------------------- MENU URL BUTTON 2 ------------------------
 
-   global.linkbuttid2 = 'ʏᴏᴜᴛᴜʙᴇ'
+   global.linkbuttid2 = 'TEXT ME'
    //-------------
-   global.butturl2 = 'https://youtube.com/c/alienalfa'
+   global.butturl2 = 'https://wa.me/94712448370?text=PEACE%20✌️'
    
    //---------------------------------------------------------------------
 
@@ -117,9 +117,9 @@ global.APIKeys = {
 
    //--------------------- ADPLAY OPTIONS ------------------------
 
-   global.linktext = 'ꜱᴜʙꜱᴄʀɪʙᴇ ᴛᴏ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ'
+   global.linktext = 'FALLOW ON GITHUB'
    //-------------
-   global.linkurl = 'https://youtube.com/c/alienalfa'
+   global.linkurl = 'https://github.com/CharithPramodyaSenanayake'
    
    //---------------------------------------------------------------------
 
@@ -129,7 +129,7 @@ global.APIKeys = {
 
    //--------------------- MAIN IMAGE  ------------------------
 
-   global.profileimage = 'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true'
+   global.profileimage = 'https://i.ibb.co/yRxSKgd/PEACE-BOT-3-2-2023.jpg'
       
    //---------------------------------------------------------------------
 
@@ -137,7 +137,7 @@ global.APIKeys = {
 
    //--------------------- URL IMAGE  ------------------------
 
-   global.mainimgurl = 'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true'
+   global.mainimgurl = 'https://i.ibb.co/yRxSKgd/PEACE-BOT-3-2-2023.jpg'
       
    //---------------------------------------------------------------------
 
@@ -148,9 +148,9 @@ global.APIKeys = {
 
    //--------------------- MAIN MENU BUTTON ------------------------
    
-   global.mlinktxt1 = 'ʜᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʙᴏᴛ'
+   global.mlinktxt1 = 'TEXT ME'
    //-------------
-   global.mlinkurl1 = 'https://youtube.com/c/alienalfa'
+   global.mlinkurl1 =https://wa.me/94712448370?text=PEACE%20✌'
    //------------- 
    
  //------ URL BUTTON 2 -----
@@ -189,35 +189,35 @@ global.premium = [`${ownernum}`]
 //-------------
 global.sessionName = 'session.alfa'
 //-------------
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','✌️',',','☮️']
 //-------------
-global.sp = '𒆜'
+global.sp = '✌️'
 //-------------
-global.devname = 'ＡＬＩＥＮ ＡＬＦＡ'
+global.devname = 'CHARITH PRAMODYA SENANAYAKE'
 //-------------
-global.devNum = ['447405935355']
+global.devNum = ['94712448370']
 //-------------
-global.greetings = 'Hey  👋🏻'
+global.greetings = 'PECAE ✌️'
 //-------------
-global.listicon = '✩' 
+global.listicon = '✌️' 
 //-------------
-global.wm = 'ＡＬＩＥＮ ＡＬＦＡ' 
+global.wm = 'CHARITH PRAMODYA SENANAYAKE' 
 //-------------
-global.botname = 'ＡＬＩＥＮ ＡＬＦＡ'
+global.botname = 'ᴘᴇᴀᴄᴇ ᴍᴅ'
 //-------------
-global.icon = '✩' 
+global.icon = '✌️' 
 //-------------
 global.mail = 'AlienAlfa.YT@gmail.com'
 //-------------
-global.youtube = 'https://youtube.com/c/alienalfa'
+global.youtube = 'https://youtube.com/'
 //-------------
-global.github = 'https://github.com/Alien-alfa/' 
+global.github = 'https://github.com/CharithPramodyaSenanayake' 
 //-------------
-global.insta = 'https://www.instagram.com/alienalfa/' 
+global.insta = 'https://www.instagram.com' 
 //-------------
-global.linkname = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼'
+global.linkname = 'ᴘᴇᴀᴄᴇ ᴍᴅ'
 //-------------
-global.mainfooter = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼' 
+global.mainfooter = 'ᴘᴇᴀᴄᴇ ᴍᴅ' 
 //-------------
 global.herokuapi = '' 
 //-------------
@@ -238,7 +238,7 @@ global.aliveimage = false
 //-------------
 global.speedmode =  'active'
 //-------------
-global.ownermess = 'ʜᴇʏ ᴛʜɪꜱ ɪꜱ ᴍʏ ᴏᴡɴᴇʀ, ᴘʟᴇᴀꜱᴇ ᴛᴀʟᴋ ɪɴ ᴇɴɢʟɪꜱʜ'
+global.ownermess = 'ʜᴇʏ ᴛʜɪꜱ ɪꜱ ᴍʏ ᴏᴡɴᴇʀ, ᴄʜᴀʀɪᴛʜ ᴘʀᴀᴍᴏᴅʏᴀ sᴇɴᴀɴᴀɴᴀʏᴀᴋᴇ'
 //-------------
 global.autoread = false 
 //-------------
